@@ -1,0 +1,10 @@
+C:\Users\19105\OneDrive\Desktop\school\SPRING 2023\C#\M1HW1_quayles5806\M1HW1_quayles5806\bin\Debug\M1HW1_quayles5806.exe.config
+C:\Users\19105\OneDrive\Desktop\school\SPRING 2023\C#\M1HW1_quayles5806\M1HW1_quayles5806\bin\Debug\M1HW1_quayles5806.exe
+C:\Users\19105\OneDrive\Desktop\school\SPRING 2023\C#\M1HW1_quayles5806\M1HW1_quayles5806\bin\Debug\M1HW1_quayles5806.pdb
+C:\Users\19105\OneDrive\Desktop\school\SPRING 2023\C#\M1HW1_quayles5806\M1HW1_quayles5806\obj\Debug\M1HW1_quayles5806.csproj.AssemblyReference.cache
+C:\Users\19105\OneDrive\Desktop\school\SPRING 2023\C#\M1HW1_quayles5806\M1HW1_quayles5806\obj\Debug\M1HW1_quayles5806.Form1.resources
+C:\Users\19105\OneDrive\Desktop\school\SPRING 2023\C#\M1HW1_quayles5806\M1HW1_quayles5806\obj\Debug\M1HW1_quayles5806.Properties.Resources.resources
+C:\Users\19105\OneDrive\Desktop\school\SPRING 2023\C#\M1HW1_quayles5806\M1HW1_quayles5806\obj\Debug\M1HW1_quayles5806.csproj.GenerateResource.cache
+C:\Users\19105\OneDrive\Desktop\school\SPRING 2023\C#\M1HW1_quayles5806\M1HW1_quayles5806\obj\Debug\M1HW1_quayles5806.csproj.CoreCompileInputs.cache
+C:\Users\19105\OneDrive\Desktop\school\SPRING 2023\C#\M1HW1_quayles5806\M1HW1_quayles5806\obj\Debug\M1HW1_quayles5806.exe
+C:\Users\19105\OneDrive\Desktop\school\SPRING 2023\C#\M1HW1_quayles5806\M1HW1_quayles5806\obj\Debug\M1HW1_quayles5806.pdb

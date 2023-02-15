@@ -1,0 +1,10 @@
+D:\SUSU\SPRING 2023\C#\MODULE 2\M2HW1_quayles5806\M2HW1_quayles5806\bin\Debug\M2HW1_quayles5806.exe.config
+D:\SUSU\SPRING 2023\C#\MODULE 2\M2HW1_quayles5806\M2HW1_quayles5806\bin\Debug\M2HW1_quayles5806.exe
+D:\SUSU\SPRING 2023\C#\MODULE 2\M2HW1_quayles5806\M2HW1_quayles5806\bin\Debug\M2HW1_quayles5806.pdb
+D:\SUSU\SPRING 2023\C#\MODULE 2\M2HW1_quayles5806\M2HW1_quayles5806\obj\Debug\M2HW1_quayles5806.csproj.AssemblyReference.cache
+D:\SUSU\SPRING 2023\C#\MODULE 2\M2HW1_quayles5806\M2HW1_quayles5806\obj\Debug\M2HW1_quayles5806.colorMixForm.resources
+D:\SUSU\SPRING 2023\C#\MODULE 2\M2HW1_quayles5806\M2HW1_quayles5806\obj\Debug\M2HW1_quayles5806.Properties.Resources.resources
+D:\SUSU\SPRING 2023\C#\MODULE 2\M2HW1_quayles5806\M2HW1_quayles5806\obj\Debug\M2HW1_quayles5806.csproj.GenerateResource.cache
+D:\SUSU\SPRING 2023\C#\MODULE 2\M2HW1_quayles5806\M2HW1_quayles5806\obj\Debug\M2HW1_quayles5806.csproj.CoreCompileInputs.cache
+D:\SUSU\SPRING 2023\C#\MODULE 2\M2HW1_quayles5806\M2HW1_quayles5806\obj\Debug\M2HW1_quayles5806.exe
+D:\SUSU\SPRING 2023\C#\MODULE 2\M2HW1_quayles5806\M2HW1_quayles5806\obj\Debug\M2HW1_quayles5806.pdb

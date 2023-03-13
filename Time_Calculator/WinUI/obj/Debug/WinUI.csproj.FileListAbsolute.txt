@@ -1,0 +1,10 @@
+D:\SUSU\SPRING 2023\C#\MODULE 2\Time_Calculator\WinUI\bin\Debug\WinUI.exe.config
+D:\SUSU\SPRING 2023\C#\MODULE 2\Time_Calculator\WinUI\bin\Debug\WinUI.exe
+D:\SUSU\SPRING 2023\C#\MODULE 2\Time_Calculator\WinUI\bin\Debug\WinUI.pdb
+D:\SUSU\SPRING 2023\C#\MODULE 2\Time_Calculator\WinUI\obj\Debug\WinUI.csproj.AssemblyReference.cache
+D:\SUSU\SPRING 2023\C#\MODULE 2\Time_Calculator\WinUI\obj\Debug\WinUI.timeCalcForm.resources
+D:\SUSU\SPRING 2023\C#\MODULE 2\Time_Calculator\WinUI\obj\Debug\WinUI.Properties.Resources.resources
+D:\SUSU\SPRING 2023\C#\MODULE 2\Time_Calculator\WinUI\obj\Debug\WinUI.csproj.GenerateResource.cache
+D:\SUSU\SPRING 2023\C#\MODULE 2\Time_Calculator\WinUI\obj\Debug\WinUI.csproj.CoreCompileInputs.cache
+D:\SUSU\SPRING 2023\C#\MODULE 2\Time_Calculator\WinUI\obj\Debug\WinUI.exe
+D:\SUSU\SPRING 2023\C#\MODULE 2\Time_Calculator\WinUI\obj\Debug\WinUI.pdb

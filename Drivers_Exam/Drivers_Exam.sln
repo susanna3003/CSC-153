@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsUI", "WindowsUI\WindowsUI.csproj", "{E33B397C-D1D2-47A4-959A-B0F76D3D91AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Driver_Exam_Library", "Driver_Exam_Library\Driver_Exam_Library.csproj", "{AB2309EB-6030-4DED-B039-125C0DAF1897}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E33B397C-D1D2-47A4-959A-B0F76D3D91AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E33B397C-D1D2-47A4-959A-B0F76D3D91AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E33B397C-D1D2-47A4-959A-B0F76D3D91AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E33B397C-D1D2-47A4-959A-B0F76D3D91AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB2309EB-6030-4DED-B039-125C0DAF1897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2309EB-6030-4DED-B039-125C0DAF1897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2309EB-6030-4DED-B039-125C0DAF1897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2309EB-6030-4DED-B039-125C0DAF1897}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3335535B-A239-41CD-A03C-1A124C025EEC}
+	EndGlobalSection
+EndGlobal

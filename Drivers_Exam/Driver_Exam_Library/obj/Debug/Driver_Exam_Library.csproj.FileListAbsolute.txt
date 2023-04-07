@@ -1,0 +1,6 @@
+C:\Users\19105\source\repos\Drivers_Exam\Driver_Exam_Library\bin\Debug\Driver_Exam_Library.dll
+C:\Users\19105\source\repos\Drivers_Exam\Driver_Exam_Library\bin\Debug\Driver_Exam_Library.pdb
+C:\Users\19105\source\repos\Drivers_Exam\Driver_Exam_Library\obj\Debug\Driver_Exam_Library.csproj.AssemblyReference.cache
+C:\Users\19105\source\repos\Drivers_Exam\Driver_Exam_Library\obj\Debug\Driver_Exam_Library.csproj.CoreCompileInputs.cache
+C:\Users\19105\source\repos\Drivers_Exam\Driver_Exam_Library\obj\Debug\Driver_Exam_Library.dll
+C:\Users\19105\source\repos\Drivers_Exam\Driver_Exam_Library\obj\Debug\Driver_Exam_Library.pdb

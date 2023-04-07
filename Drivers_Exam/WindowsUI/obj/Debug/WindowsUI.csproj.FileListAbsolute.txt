@@ -1,0 +1,13 @@
+C:\Users\19105\source\repos\Drivers_Exam\WindowsUI\obj\Debug\WindowsUI.csproj.AssemblyReference.cache
+C:\Users\19105\source\repos\Drivers_Exam\WindowsUI\obj\Debug\WindowsUI.DriverLicenseExam.resources
+C:\Users\19105\source\repos\Drivers_Exam\WindowsUI\obj\Debug\WindowsUI.Properties.Resources.resources
+C:\Users\19105\source\repos\Drivers_Exam\WindowsUI\obj\Debug\WindowsUI.csproj.GenerateResource.cache
+C:\Users\19105\source\repos\Drivers_Exam\WindowsUI\obj\Debug\WindowsUI.csproj.CoreCompileInputs.cache
+C:\Users\19105\source\repos\Drivers_Exam\WindowsUI\bin\Debug\WindowsUI.exe.config
+C:\Users\19105\source\repos\Drivers_Exam\WindowsUI\bin\Debug\WindowsUI.exe
+C:\Users\19105\source\repos\Drivers_Exam\WindowsUI\bin\Debug\WindowsUI.pdb
+C:\Users\19105\source\repos\Drivers_Exam\WindowsUI\bin\Debug\Driver_Exam_Library.dll
+C:\Users\19105\source\repos\Drivers_Exam\WindowsUI\bin\Debug\Driver_Exam_Library.pdb
+C:\Users\19105\source\repos\Drivers_Exam\WindowsUI\obj\Debug\WindowsUI.csproj.CopyComplete
+C:\Users\19105\source\repos\Drivers_Exam\WindowsUI\obj\Debug\WindowsUI.exe
+C:\Users\19105\source\repos\Drivers_Exam\WindowsUI\obj\Debug\WindowsUI.pdb

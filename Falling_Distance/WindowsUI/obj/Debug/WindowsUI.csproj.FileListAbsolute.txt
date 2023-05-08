@@ -1,0 +1,13 @@
+D:\SUSU\SPRING 2023\C#\MODULE 4\Falling_Distance\WindowsUI\bin\Debug\WindowsUI.exe.config
+D:\SUSU\SPRING 2023\C#\MODULE 4\Falling_Distance\WindowsUI\bin\Debug\WindowsUI.exe
+D:\SUSU\SPRING 2023\C#\MODULE 4\Falling_Distance\WindowsUI\bin\Debug\WindowsUI.pdb
+D:\SUSU\SPRING 2023\C#\MODULE 4\Falling_Distance\WindowsUI\obj\Debug\WindowsUI.csproj.AssemblyReference.cache
+D:\SUSU\SPRING 2023\C#\MODULE 4\Falling_Distance\WindowsUI\obj\Debug\WindowsUI.fallingDistForm.resources
+D:\SUSU\SPRING 2023\C#\MODULE 4\Falling_Distance\WindowsUI\obj\Debug\WindowsUI.Properties.Resources.resources
+D:\SUSU\SPRING 2023\C#\MODULE 4\Falling_Distance\WindowsUI\obj\Debug\WindowsUI.csproj.GenerateResource.cache
+D:\SUSU\SPRING 2023\C#\MODULE 4\Falling_Distance\WindowsUI\obj\Debug\WindowsUI.csproj.CoreCompileInputs.cache
+D:\SUSU\SPRING 2023\C#\MODULE 4\Falling_Distance\WindowsUI\obj\Debug\WindowsUI.exe
+D:\SUSU\SPRING 2023\C#\MODULE 4\Falling_Distance\WindowsUI\obj\Debug\WindowsUI.pdb
+D:\SUSU\SPRING 2023\C#\MODULE 4\Falling_Distance\WindowsUI\bin\Debug\Falling_Library.dll
+D:\SUSU\SPRING 2023\C#\MODULE 4\Falling_Distance\WindowsUI\bin\Debug\Falling_Library.pdb
+D:\SUSU\SPRING 2023\C#\MODULE 4\Falling_Distance\WindowsUI\obj\Debug\WindowsUI.csproj.CopyComplete

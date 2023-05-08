@@ -1,0 +1,10 @@
+D:\SUSU\SPRING 2023\C#\MODULE 3\Ran_Num_File_Reader\WindowUI\bin\Debug\WindowUI.exe.config
+D:\SUSU\SPRING 2023\C#\MODULE 3\Ran_Num_File_Reader\WindowUI\bin\Debug\WindowUI.exe
+D:\SUSU\SPRING 2023\C#\MODULE 3\Ran_Num_File_Reader\WindowUI\bin\Debug\WindowUI.pdb
+D:\SUSU\SPRING 2023\C#\MODULE 3\Ran_Num_File_Reader\WindowUI\obj\Debug\WindowUI.csproj.AssemblyReference.cache
+D:\SUSU\SPRING 2023\C#\MODULE 3\Ran_Num_File_Reader\WindowUI\obj\Debug\WindowUI.Form1.resources
+D:\SUSU\SPRING 2023\C#\MODULE 3\Ran_Num_File_Reader\WindowUI\obj\Debug\WindowUI.Properties.Resources.resources
+D:\SUSU\SPRING 2023\C#\MODULE 3\Ran_Num_File_Reader\WindowUI\obj\Debug\WindowUI.csproj.GenerateResource.cache
+D:\SUSU\SPRING 2023\C#\MODULE 3\Ran_Num_File_Reader\WindowUI\obj\Debug\WindowUI.csproj.CoreCompileInputs.cache
+D:\SUSU\SPRING 2023\C#\MODULE 3\Ran_Num_File_Reader\WindowUI\obj\Debug\WindowUI.exe
+D:\SUSU\SPRING 2023\C#\MODULE 3\Ran_Num_File_Reader\WindowUI\obj\Debug\WindowUI.pdb

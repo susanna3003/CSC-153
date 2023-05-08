@@ -1,0 +1,6 @@
+D:\SUSU\SPRING 2023\C#\MODULE 6\Employee_Class\Employee_Class_Library\bin\Debug\Employee_Class_Library.dll
+D:\SUSU\SPRING 2023\C#\MODULE 6\Employee_Class\Employee_Class_Library\bin\Debug\Employee_Class_Library.pdb
+D:\SUSU\SPRING 2023\C#\MODULE 6\Employee_Class\Employee_Class_Library\obj\Debug\Employee_Class_Library.csproj.AssemblyReference.cache
+D:\SUSU\SPRING 2023\C#\MODULE 6\Employee_Class\Employee_Class_Library\obj\Debug\Employee_Class_Library.csproj.CoreCompileInputs.cache
+D:\SUSU\SPRING 2023\C#\MODULE 6\Employee_Class\Employee_Class_Library\obj\Debug\Employee_Class_Library.dll
+D:\SUSU\SPRING 2023\C#\MODULE 6\Employee_Class\Employee_Class_Library\obj\Debug\Employee_Class_Library.pdb

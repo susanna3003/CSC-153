@@ -1,0 +1,6 @@
+D:\SUSU\SPRING 2023\C#\MODULE 5\World_Series_Championships\WorldSeriesChampLibrary\bin\Debug\WorldSeriesChampLibrary.dll
+D:\SUSU\SPRING 2023\C#\MODULE 5\World_Series_Championships\WorldSeriesChampLibrary\bin\Debug\WorldSeriesChampLibrary.pdb
+D:\SUSU\SPRING 2023\C#\MODULE 5\World_Series_Championships\WorldSeriesChampLibrary\obj\Debug\WorldSeriesChampLibrary.csproj.AssemblyReference.cache
+D:\SUSU\SPRING 2023\C#\MODULE 5\World_Series_Championships\WorldSeriesChampLibrary\obj\Debug\WorldSeriesChampLibrary.csproj.CoreCompileInputs.cache
+D:\SUSU\SPRING 2023\C#\MODULE 5\World_Series_Championships\WorldSeriesChampLibrary\obj\Debug\WorldSeriesChampLibrary.dll
+D:\SUSU\SPRING 2023\C#\MODULE 5\World_Series_Championships\WorldSeriesChampLibrary\obj\Debug\WorldSeriesChampLibrary.pdb

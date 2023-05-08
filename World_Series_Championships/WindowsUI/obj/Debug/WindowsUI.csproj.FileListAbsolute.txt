@@ -1,0 +1,13 @@
+D:\SUSU\SPRING 2023\C#\MODULE 5\World_Series_Championships\WindowsUI\obj\Debug\WindowsUI.csproj.AssemblyReference.cache
+D:\SUSU\SPRING 2023\C#\MODULE 5\World_Series_Championships\WindowsUI\obj\Debug\WindowsUI.worldSeriesChampForm.resources
+D:\SUSU\SPRING 2023\C#\MODULE 5\World_Series_Championships\WindowsUI\obj\Debug\WindowsUI.Properties.Resources.resources
+D:\SUSU\SPRING 2023\C#\MODULE 5\World_Series_Championships\WindowsUI\obj\Debug\WindowsUI.csproj.GenerateResource.cache
+D:\SUSU\SPRING 2023\C#\MODULE 5\World_Series_Championships\WindowsUI\obj\Debug\WindowsUI.csproj.CoreCompileInputs.cache
+D:\SUSU\SPRING 2023\C#\MODULE 5\World_Series_Championships\WindowsUI\bin\Debug\WindowsUI.exe.config
+D:\SUSU\SPRING 2023\C#\MODULE 5\World_Series_Championships\WindowsUI\bin\Debug\WindowsUI.exe
+D:\SUSU\SPRING 2023\C#\MODULE 5\World_Series_Championships\WindowsUI\bin\Debug\WindowsUI.pdb
+D:\SUSU\SPRING 2023\C#\MODULE 5\World_Series_Championships\WindowsUI\bin\Debug\WorldSeriesChampLibrary.dll
+D:\SUSU\SPRING 2023\C#\MODULE 5\World_Series_Championships\WindowsUI\bin\Debug\WorldSeriesChampLibrary.pdb
+D:\SUSU\SPRING 2023\C#\MODULE 5\World_Series_Championships\WindowsUI\obj\Debug\WindowsUI.csproj.CopyComplete
+D:\SUSU\SPRING 2023\C#\MODULE 5\World_Series_Championships\WindowsUI\obj\Debug\WindowsUI.exe
+D:\SUSU\SPRING 2023\C#\MODULE 5\World_Series_Championships\WindowsUI\obj\Debug\WindowsUI.pdb

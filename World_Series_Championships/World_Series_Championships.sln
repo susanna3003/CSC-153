@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsUI", "WindowsUI\WindowsUI.csproj", "{14F3CE87-432B-4B4F-8B9B-C00B33B0EB91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldSeriesChampLibrary", "WorldSeriesChampLibrary\WorldSeriesChampLibrary.csproj", "{7CF23173-4B2B-48F9-AB67-BD4471B956D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0E5E132B-4212-4C3D-9193-E58E4765711D}"
+	ProjectSection(SolutionItems) = preProject
+		Teams.txt = Teams.txt
+		WorldSeriesWinners.txt = WorldSeriesWinners.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14F3CE87-432B-4B4F-8B9B-C00B33B0EB91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F3CE87-432B-4B4F-8B9B-C00B33B0EB91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F3CE87-432B-4B4F-8B9B-C00B33B0EB91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F3CE87-432B-4B4F-8B9B-C00B33B0EB91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CF23173-4B2B-48F9-AB67-BD4471B956D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF23173-4B2B-48F9-AB67-BD4471B956D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF23173-4B2B-48F9-AB67-BD4471B956D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF23173-4B2B-48F9-AB67-BD4471B956D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2C701B5-53CC-4A97-A184-8243735C93BF}
+	EndGlobalSection
+EndGlobal

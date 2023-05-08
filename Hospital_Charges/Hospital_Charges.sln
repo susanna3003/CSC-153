@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsUI", "WindowsUI\WindowsUI.csproj", "{1C4D8769-FADB-48ED-8091-471DF0CFFBE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital_Stay_Library", "Hospital_Stay_Library\Hospital_Stay_Library.csproj", "{3AA94CDE-E8F1-45EE-B400-5B28FA43C504}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C4D8769-FADB-48ED-8091-471DF0CFFBE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C4D8769-FADB-48ED-8091-471DF0CFFBE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C4D8769-FADB-48ED-8091-471DF0CFFBE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C4D8769-FADB-48ED-8091-471DF0CFFBE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AA94CDE-E8F1-45EE-B400-5B28FA43C504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA94CDE-E8F1-45EE-B400-5B28FA43C504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA94CDE-E8F1-45EE-B400-5B28FA43C504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA94CDE-E8F1-45EE-B400-5B28FA43C504}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AEDDD56-F5AB-423E-8ECF-1AA92BFF62E3}
+	EndGlobalSection
+EndGlobal

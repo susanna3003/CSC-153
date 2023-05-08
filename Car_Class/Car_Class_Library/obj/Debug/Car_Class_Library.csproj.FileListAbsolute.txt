@@ -1,0 +1,6 @@
+D:\SUSU\SPRING 2023\C#\MODULE 6\Car_Class\Car_Class_Library\bin\Debug\Car_Class_Library.dll
+D:\SUSU\SPRING 2023\C#\MODULE 6\Car_Class\Car_Class_Library\bin\Debug\Car_Class_Library.pdb
+D:\SUSU\SPRING 2023\C#\MODULE 6\Car_Class\Car_Class_Library\obj\Debug\Car_Class_Library.csproj.AssemblyReference.cache
+D:\SUSU\SPRING 2023\C#\MODULE 6\Car_Class\Car_Class_Library\obj\Debug\Car_Class_Library.csproj.CoreCompileInputs.cache
+D:\SUSU\SPRING 2023\C#\MODULE 6\Car_Class\Car_Class_Library\obj\Debug\Car_Class_Library.dll
+D:\SUSU\SPRING 2023\C#\MODULE 6\Car_Class\Car_Class_Library\obj\Debug\Car_Class_Library.pdb

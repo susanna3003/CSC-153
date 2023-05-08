@@ -1,0 +1,13 @@
+C:\Users\quayles5806\source\repos\Prime_Numbers\WindowsUI\bin\Debug\WindowsUI.exe.config
+C:\Users\quayles5806\source\repos\Prime_Numbers\WindowsUI\bin\Debug\WindowsUI.exe
+C:\Users\quayles5806\source\repos\Prime_Numbers\WindowsUI\bin\Debug\WindowsUI.pdb
+C:\Users\quayles5806\source\repos\Prime_Numbers\WindowsUI\bin\Debug\Prime_Num_Library.dll
+C:\Users\quayles5806\source\repos\Prime_Numbers\WindowsUI\bin\Debug\Prime_Num_Library.pdb
+C:\Users\quayles5806\source\repos\Prime_Numbers\WindowsUI\obj\Debug\WindowsUI.csproj.AssemblyReference.cache
+C:\Users\quayles5806\source\repos\Prime_Numbers\WindowsUI\obj\Debug\WindowsUI.PrimeNumForm.resources
+C:\Users\quayles5806\source\repos\Prime_Numbers\WindowsUI\obj\Debug\WindowsUI.Properties.Resources.resources
+C:\Users\quayles5806\source\repos\Prime_Numbers\WindowsUI\obj\Debug\WindowsUI.csproj.GenerateResource.cache
+C:\Users\quayles5806\source\repos\Prime_Numbers\WindowsUI\obj\Debug\WindowsUI.csproj.CoreCompileInputs.cache
+C:\Users\quayles5806\source\repos\Prime_Numbers\WindowsUI\obj\Debug\WindowsUI.csproj.CopyComplete
+C:\Users\quayles5806\source\repos\Prime_Numbers\WindowsUI\obj\Debug\WindowsUI.exe
+C:\Users\quayles5806\source\repos\Prime_Numbers\WindowsUI\obj\Debug\WindowsUI.pdb

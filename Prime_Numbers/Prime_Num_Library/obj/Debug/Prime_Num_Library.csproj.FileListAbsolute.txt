@@ -1,0 +1,6 @@
+C:\Users\quayles5806\source\repos\Prime_Numbers\Prime_Num_Library\bin\Debug\Prime_Num_Library.dll
+C:\Users\quayles5806\source\repos\Prime_Numbers\Prime_Num_Library\bin\Debug\Prime_Num_Library.pdb
+C:\Users\quayles5806\source\repos\Prime_Numbers\Prime_Num_Library\obj\Debug\Prime_Num_Library.csproj.AssemblyReference.cache
+C:\Users\quayles5806\source\repos\Prime_Numbers\Prime_Num_Library\obj\Debug\Prime_Num_Library.csproj.CoreCompileInputs.cache
+C:\Users\quayles5806\source\repos\Prime_Numbers\Prime_Num_Library\obj\Debug\Prime_Num_Library.dll
+C:\Users\quayles5806\source\repos\Prime_Numbers\Prime_Num_Library\obj\Debug\Prime_Num_Library.pdb

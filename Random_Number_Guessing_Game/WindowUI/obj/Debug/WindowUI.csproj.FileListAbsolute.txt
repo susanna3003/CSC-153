@@ -1,0 +1,20 @@
+D:\SUSU\SPRING 2023\C#\MODULE 3\Random Number Guessing Game\WindowUI\bin\Debug\WindowUI.exe.config
+D:\SUSU\SPRING 2023\C#\MODULE 3\Random Number Guessing Game\WindowUI\bin\Debug\WindowUI.exe
+D:\SUSU\SPRING 2023\C#\MODULE 3\Random Number Guessing Game\WindowUI\bin\Debug\WindowUI.pdb
+D:\SUSU\SPRING 2023\C#\MODULE 3\Random Number Guessing Game\WindowUI\obj\Debug\WindowUI.csproj.AssemblyReference.cache
+D:\SUSU\SPRING 2023\C#\MODULE 3\Random Number Guessing Game\WindowUI\obj\Debug\WindowUI.randomNumForm.resources
+D:\SUSU\SPRING 2023\C#\MODULE 3\Random Number Guessing Game\WindowUI\obj\Debug\WindowUI.Properties.Resources.resources
+D:\SUSU\SPRING 2023\C#\MODULE 3\Random Number Guessing Game\WindowUI\obj\Debug\WindowUI.csproj.GenerateResource.cache
+D:\SUSU\SPRING 2023\C#\MODULE 3\Random Number Guessing Game\WindowUI\obj\Debug\WindowUI.csproj.CoreCompileInputs.cache
+D:\SUSU\SPRING 2023\C#\MODULE 3\Random Number Guessing Game\WindowUI\obj\Debug\WindowUI.exe
+D:\SUSU\SPRING 2023\C#\MODULE 3\Random Number Guessing Game\WindowUI\obj\Debug\WindowUI.pdb
+E:\SUSU\SPRING 2023\C#\MODULE 3\Random_Number_Guessing_Game\WindowUI\bin\Debug\WindowUI.exe.config
+E:\SUSU\SPRING 2023\C#\MODULE 3\Random_Number_Guessing_Game\WindowUI\bin\Debug\WindowUI.exe
+E:\SUSU\SPRING 2023\C#\MODULE 3\Random_Number_Guessing_Game\WindowUI\bin\Debug\WindowUI.pdb
+E:\SUSU\SPRING 2023\C#\MODULE 3\Random_Number_Guessing_Game\WindowUI\obj\Debug\WindowUI.csproj.AssemblyReference.cache
+E:\SUSU\SPRING 2023\C#\MODULE 3\Random_Number_Guessing_Game\WindowUI\obj\Debug\WindowUI.randomNumForm.resources
+E:\SUSU\SPRING 2023\C#\MODULE 3\Random_Number_Guessing_Game\WindowUI\obj\Debug\WindowUI.Properties.Resources.resources
+E:\SUSU\SPRING 2023\C#\MODULE 3\Random_Number_Guessing_Game\WindowUI\obj\Debug\WindowUI.csproj.GenerateResource.cache
+E:\SUSU\SPRING 2023\C#\MODULE 3\Random_Number_Guessing_Game\WindowUI\obj\Debug\WindowUI.csproj.CoreCompileInputs.cache
+E:\SUSU\SPRING 2023\C#\MODULE 3\Random_Number_Guessing_Game\WindowUI\obj\Debug\WindowUI.exe
+E:\SUSU\SPRING 2023\C#\MODULE 3\Random_Number_Guessing_Game\WindowUI\obj\Debug\WindowUI.pdb

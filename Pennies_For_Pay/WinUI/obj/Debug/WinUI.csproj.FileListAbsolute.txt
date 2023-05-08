@@ -1,0 +1,10 @@
+D:\SUSU\SPRING 2023\C#\MODULE 3\Pennies_For_Pay\WinUI\bin\Debug\WinUI.exe.config
+D:\SUSU\SPRING 2023\C#\MODULE 3\Pennies_For_Pay\WinUI\bin\Debug\WinUI.exe
+D:\SUSU\SPRING 2023\C#\MODULE 3\Pennies_For_Pay\WinUI\bin\Debug\WinUI.pdb
+D:\SUSU\SPRING 2023\C#\MODULE 3\Pennies_For_Pay\WinUI\obj\Debug\WinUI.csproj.AssemblyReference.cache
+D:\SUSU\SPRING 2023\C#\MODULE 3\Pennies_For_Pay\WinUI\obj\Debug\WinUI.pfpForm.resources
+D:\SUSU\SPRING 2023\C#\MODULE 3\Pennies_For_Pay\WinUI\obj\Debug\WinUI.Properties.Resources.resources
+D:\SUSU\SPRING 2023\C#\MODULE 3\Pennies_For_Pay\WinUI\obj\Debug\WinUI.csproj.GenerateResource.cache
+D:\SUSU\SPRING 2023\C#\MODULE 3\Pennies_For_Pay\WinUI\obj\Debug\WinUI.csproj.CoreCompileInputs.cache
+D:\SUSU\SPRING 2023\C#\MODULE 3\Pennies_For_Pay\WinUI\obj\Debug\WinUI.exe
+D:\SUSU\SPRING 2023\C#\MODULE 3\Pennies_For_Pay\WinUI\obj\Debug\WinUI.pdb

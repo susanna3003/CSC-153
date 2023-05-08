@@ -1,0 +1,10 @@
+D:\SUSU\SPRING 2023\C#\MODULE 3\Rand_Num_File_Writer\WinForm\bin\Debug\WinForm.exe.config
+D:\SUSU\SPRING 2023\C#\MODULE 3\Rand_Num_File_Writer\WinForm\bin\Debug\WinForm.exe
+D:\SUSU\SPRING 2023\C#\MODULE 3\Rand_Num_File_Writer\WinForm\bin\Debug\WinForm.pdb
+D:\SUSU\SPRING 2023\C#\MODULE 3\Rand_Num_File_Writer\WinForm\obj\Debug\WinForm.csproj.AssemblyReference.cache
+D:\SUSU\SPRING 2023\C#\MODULE 3\Rand_Num_File_Writer\WinForm\obj\Debug\WinForm.randomNumWriter.resources
+D:\SUSU\SPRING 2023\C#\MODULE 3\Rand_Num_File_Writer\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+D:\SUSU\SPRING 2023\C#\MODULE 3\Rand_Num_File_Writer\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+D:\SUSU\SPRING 2023\C#\MODULE 3\Rand_Num_File_Writer\WinForm\obj\Debug\WinForm.csproj.CoreCompileInputs.cache
+D:\SUSU\SPRING 2023\C#\MODULE 3\Rand_Num_File_Writer\WinForm\obj\Debug\WinForm.exe
+D:\SUSU\SPRING 2023\C#\MODULE 3\Rand_Num_File_Writer\WinForm\obj\Debug\WinForm.pdb

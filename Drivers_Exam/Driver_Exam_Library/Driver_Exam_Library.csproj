@@ -42,7 +42,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DriverExamClass.cs" />
+    <Compile Include="GradingLogic.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StudentAnswers.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="studentAnswers.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

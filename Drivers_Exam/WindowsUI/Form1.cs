@@ -28,59 +28,32 @@ namespace WindowsUI
 
         private void gradeButton_Click(object sender, EventArgs e)
         {
-            //store correct exam answers in array
-            String[] examAnswers = { "B", "D", "A", "A", "C", "A", "B", "A", "C", "D", "B", "C", "D", "A", "D", "C", "C", "B", "D", "A" };
+            StudentAnswers.LoadStudentAnswers();
+            DriverExamClass.Grade();
 
-            //create studentAnswers.txt
-            //StreamWriter writeStudentAnswers;
-            //writeStudentAnswers = File.CreateText("studentAnswers.txt");
-
-            //read answers from student text into array
-            StreamReader readStudentAns;
-            readStudentAns = File.OpenText("studentAnswers.txt");
-
-            //create studentAnswers array
-            const int SIZE = 20;
-            String[] studentAnswers = new string[SIZE];
-            
-            for (int i = 0; i < SIZE; i++)
+            if (GradingLogic.pass == true)
             {
-                while (!readStudentAns.EndOfStream)
-                {
-                    studentAnswers[i] = readStudentAns.ReadLine();
-                }
+                //MessageBox.Show("You passed!");
+                passOrFailTextBox.Text = "You passed!";
+            }
+            else if (GradingLogic.pass == false)
+            {
+                //MessageBox.Show("You failed. Better luck next time.");
+                passOrFailTextBox.Text = "You failed. Better luck next time.";
             }
 
-            //compare and calculate correct ans
-            int numCorrect = 0;
-            int numWrong = 0;
-            Boolean pass = false;
+            String numCorrectString = GradingLogic.numCorrect.ToString();
+            numCorrectTextBox.Text = numCorrectString;
 
-            for (int j = 0; j < SIZE; j++)
-            {
-                if (examAnswers[j] == studentAnswers[j])
-                {
-                    numCorrect++;
-                }
-                else if (examAnswers[j] != studentAnswers[j])
-                {
-                    numWrong++;
-                }
-            }
+            String numWrongString = GradingLogic.numWrong.ToString();
+            numIncorrectTextBox.Text = numWrongString;
 
-            if (numCorrect >= 15)
+            //List<int> incorrectAnswers = new List<int>(); wait for class library
+            foreach (int wrongAnswer in GradingLogic.wrongAnswers)
             {
-                pass = true;
+                incorrectQListBox.Items.Add(wrongAnswer);
             }
             
-            if (pass == true)
-            {
-                MessageBox.Show("You passed!");
-            }
-            else if (pass == false)
-            {
-                MessageBox.Show("You failed. Better luck next time.");
-            }
         }
     }
 }

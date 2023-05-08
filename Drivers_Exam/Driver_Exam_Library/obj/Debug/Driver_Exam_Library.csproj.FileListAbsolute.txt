@@ -4,3 +4,9 @@ C:\Users\19105\source\repos\Drivers_Exam\Driver_Exam_Library\obj\Debug\Driver_Ex
 C:\Users\19105\source\repos\Drivers_Exam\Driver_Exam_Library\obj\Debug\Driver_Exam_Library.csproj.CoreCompileInputs.cache
 C:\Users\19105\source\repos\Drivers_Exam\Driver_Exam_Library\obj\Debug\Driver_Exam_Library.dll
 C:\Users\19105\source\repos\Drivers_Exam\Driver_Exam_Library\obj\Debug\Driver_Exam_Library.pdb
+D:\SUSU\SPRING 2023\C#\MODULE 5\Drivers_Exam\Driver_Exam_Library\bin\Debug\Driver_Exam_Library.dll
+D:\SUSU\SPRING 2023\C#\MODULE 5\Drivers_Exam\Driver_Exam_Library\bin\Debug\Driver_Exam_Library.pdb
+D:\SUSU\SPRING 2023\C#\MODULE 5\Drivers_Exam\Driver_Exam_Library\obj\Debug\Driver_Exam_Library.csproj.AssemblyReference.cache
+D:\SUSU\SPRING 2023\C#\MODULE 5\Drivers_Exam\Driver_Exam_Library\obj\Debug\Driver_Exam_Library.csproj.CoreCompileInputs.cache
+D:\SUSU\SPRING 2023\C#\MODULE 5\Drivers_Exam\Driver_Exam_Library\obj\Debug\Driver_Exam_Library.dll
+D:\SUSU\SPRING 2023\C#\MODULE 5\Drivers_Exam\Driver_Exam_Library\obj\Debug\Driver_Exam_Library.pdb

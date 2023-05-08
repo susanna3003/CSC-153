@@ -6,8 +6,28 @@ using System.Threading.Tasks;
 
 namespace Driver_Exam_Library
 {
-    public class DriverExamClass
+    public static class DriverExamClass
     {
+        public static void Grade()
+        {
+            for (int j = 0; j < 20; j++)
+            {
+                if (GradingLogic.examAnswers[j] == GradingLogic.studentAnswers[j])
+                {
+                    GradingLogic.numCorrect++;
+                }
+                else if (GradingLogic.examAnswers[j] != GradingLogic.studentAnswers[j])
+                {
+                    GradingLogic.numWrong++;
+                    GradingLogic.wrongAnswers.Add(j + 1);
+                }
+            }
 
+            if (GradingLogic.numCorrect >= 15)
+            {
+                GradingLogic.pass = true;
+            }
+
+        }
     }
 }

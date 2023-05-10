@@ -1,0 +1,12 @@
+E:\SUSU\SPRING 2023\C#\MODULE 6\Area_Class\Area_Library\bin\Debug\Area_Library.dll
+E:\SUSU\SPRING 2023\C#\MODULE 6\Area_Class\Area_Library\bin\Debug\Area_Library.pdb
+E:\SUSU\SPRING 2023\C#\MODULE 6\Area_Class\Area_Library\obj\Debug\Area_Library.csproj.AssemblyReference.cache
+E:\SUSU\SPRING 2023\C#\MODULE 6\Area_Class\Area_Library\obj\Debug\Area_Library.csproj.CoreCompileInputs.cache
+E:\SUSU\SPRING 2023\C#\MODULE 6\Area_Class\Area_Library\obj\Debug\Area_Library.dll
+E:\SUSU\SPRING 2023\C#\MODULE 6\Area_Class\Area_Library\obj\Debug\Area_Library.pdb
+D:\SUSU\SPRING 2023\C#\MODULE 6\Area_Class\Area_Library\bin\Debug\Area_Library.dll
+D:\SUSU\SPRING 2023\C#\MODULE 6\Area_Class\Area_Library\bin\Debug\Area_Library.pdb
+D:\SUSU\SPRING 2023\C#\MODULE 6\Area_Class\Area_Library\obj\Debug\Area_Library.csproj.AssemblyReference.cache
+D:\SUSU\SPRING 2023\C#\MODULE 6\Area_Class\Area_Library\obj\Debug\Area_Library.csproj.CoreCompileInputs.cache
+D:\SUSU\SPRING 2023\C#\MODULE 6\Area_Class\Area_Library\obj\Debug\Area_Library.dll
+D:\SUSU\SPRING 2023\C#\MODULE 6\Area_Class\Area_Library\obj\Debug\Area_Library.pdb
